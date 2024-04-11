@@ -62,5 +62,6 @@ plt.legend(['Regression Line','Data points'])
 The code calculates the correlation coefficient and regression line for given data and plots the regression line along with the data points.
 
 # Output 
-![320368799-67369707-d80d-4753-8b17-fe04969ef76b](https://github.com/shahinjaffer07/Correlation_Regression/assets/147373815/a9290a1e-9232-4bc3-86f6-aba46aa77d69)
+![320368799-67369707-d80d-4753-8b17-fe04969ef76b](https://github.com/shahinjaffer07/Correlation_Regression/assets/147373815/6910abf1-0779-46f6-8b43-189843b22a93)
+
 
